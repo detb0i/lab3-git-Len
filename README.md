@@ -14,3 +14,4 @@
 | `git commit` | Фіксація змін у локальній історії |
 | `git push` | Надсилання комітів на GitHub |
 | `git revert` | Безпечне скасування змін новим комітом |
+![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
